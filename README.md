@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
+| [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
