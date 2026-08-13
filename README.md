@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0283-move-zeroes) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0977-squares-of-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
