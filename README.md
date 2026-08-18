@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshuumaan-Singh/DSA_LEARNing/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
