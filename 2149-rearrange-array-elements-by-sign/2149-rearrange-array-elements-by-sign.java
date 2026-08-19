@@ -3,16 +3,16 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
         
-        int posIndex = 0; 
-        int negIndex = 1; 
+        int pIdx = 0; 
+        int nIdx = 1; 
         
         for (int num : nums) {
             if (num > 0) {
-                ans[posIndex] = num;
-                posIndex += 2;
+                ans[pIdx] = num;
+                pIdx += 2;
             } else {
-                ans[negIndex] = num;
-                negIndex += 2;
+                ans[nIdx] = num;
+                nIdx += 2;
             }
         }
         return ans;
